@@ -89,6 +89,16 @@
             <td><img src="electrictype.png" style="width:70px;height:auto;"></td>
         </tr>
         <tr>
+            <td>#039</td>
+            <td><img src="jigglypuff.png" width="100px" height="auto"><br>Jigglypuff</td>
+            <td><img src="normaltype.png" style="width:70px;height:auto;"><img src="fairytype.png" style="width:70px;height:auto;"></td>
+        </tr>
+        <tr>
+            <td>#040</td>
+            <td><img src="wigglytuff.png" width="100px" height="auto"><br>Wigglytuff</td>
+            <td><img src="normaltype.png" style="width:70px;height:auto;"><img src="fairytype.png" style="width:70px;height:auto;"></td>
+        </tr>
+        <tr>
             <td>#150</td>
             <td><img src="mewtwo.png" width="100px" height="auto"><br>Mewtwo</td>
             <td><img src="psychictype.png" style="width:70px;height:auto;"></td>
@@ -100,5 +110,8 @@
         </tr>
     </table>
 </main>
+    <footer>
+        &copy; CMGT 2015-2016
+    </footer>
 </body>
 </html>
