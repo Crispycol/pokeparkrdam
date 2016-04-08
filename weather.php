@@ -25,12 +25,10 @@
         </nav>
     </header>
 
-    <main>
-        <div class="first">
+    <div class="weatherdisplay">
             <h2>Current Weather</h2>
             <p>Here comes the current weather display</p>
-        </div>
-    </main>
+    </div>
 
     <div class="first">
         <div class="calm">
